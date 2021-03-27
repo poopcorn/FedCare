@@ -1,0 +1,4 @@
+django==3.0.3
+numpy
+networkx
+scikit-learn
