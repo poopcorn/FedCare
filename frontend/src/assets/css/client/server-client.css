@@ -1,0 +1,89 @@
+#ContainerDiv{
+  width: 60px;
+  height: 500px;
+  position: absolute;
+  top: 200px;
+  left: 95px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+  width: 2px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #F2F2F2;
+}
+
+#ServerSvg{
+  width: 80px;
+  height: 500px;
+  position: absolute;
+  top: 200px;
+  left: 15px;
+  float: left;
+}
+
+#ServerCircle{
+  r: 8px;
+  cx: 8px;
+  cy: 250px;
+  fill: #D8D8D8;
+}
+
+.ServerText{
+  position: absolute;
+  top: 420px;
+  left: 5px;
+}
+
+.ClientSvg{
+  width: 60px;
+}
+
+.ClientText{
+  position: absolute;
+  top: 175px;
+  left: 102px;
+}
+
+.ClientRect{
+  width: 50px;
+  height: 20px;
+  fill: #D8D8D8;
+  font-size: 10px;
+}
+
+.Curve{
+  stroke: #F2F2F2;
+  fill: none;
+}
+
+.RoundCircle{
+  r: 3px;
+}
+
+#ColorLegendSvg{
+  width: 420px;
+  height: 20px;
+  position: absolute;
+  top: 0;
+  right: 20px;
+}
+
+#ColorLegend{
+  width: 300px;
+  height: 10px;
+  x: 60px;
+  y: 5px;
+}
+
+.LegendText{
+  font-size: 10px;
+  font-family: sans-serif;
+}
+
+
+
+

@@ -1,0 +1,22 @@
+.performance-div {
+  width: 96%;
+  height: 220px;
+  margin: 5px;
+  /* border: 1px solid #d8d8d8; */
+}
+
+.performance-hr{
+  width: 34%;
+  size: 1px;
+  align-self: center;
+}
+
+.linechart-div{
+  width: 100%;
+  height: 230px;
+}
+
+.performance-svg{
+  width: 100%;
+}
+

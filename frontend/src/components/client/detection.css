@@ -1,0 +1,84 @@
+.adversary-main{
+  height: 120px;
+  width: 100%;
+}
+
+.adversary-title {
+  display: flex;
+  padding: 5px 0;
+  width: 100%;
+  height: 12px;
+  color: #3e3f3f;
+  font-size: 12px;
+  line-height: 12px;
+  border-bottom: 1px solid #d8d8d8;
+}
+
+
+.adversary-brush-svg{
+  width: 100%;
+  height: 32px;
+  margin-top: 12px;
+}
+
+.adversary-data{
+  display: flex;
+  margin-left: 40px;
+  width: 90%;
+  height: 40px;
+  font-size: 12px;
+}
+
+.data-content{
+  display: flex;
+  width: 50%;
+  height: 100%;
+}
+
+.content-box{
+  width: 45%;
+  height: 100%;
+  font-size: 12px;
+}
+
+.content-box-right{
+  width: 35%;
+  height: 100%;
+  margin-left: 25px;
+  font-size: 12px;
+}
+
+.data-box{
+  padding-top: 3px;
+  padding-left: 3px;
+  width: 100%;
+  height: 40%;
+  font-size: 12px;
+}
+
+.input-box{
+  width: 75%;
+  height: 12px;
+  font-size: 12px;
+  border: 1px solid #d8d8d8;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.button-box{
+  width: 100%;
+  height: 20px;
+
+}
+.compute-button{
+  font-size: 10px;
+  color: #3e3f3f;
+  width: 81px;
+  height: 18px;
+  background:#f2f2f1;
+  border: 1px solid #d8d8d8;
+  border-radius: 5px;
+  margin-top: 2px;
+  margin-left: 366px;
+}

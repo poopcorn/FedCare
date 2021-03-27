@@ -1,0 +1,38 @@
+.BoxSvg{
+  width: 500px;
+  height: 150px;
+  margin-right: 10px;
+  margin-top: 10px;
+  float:right;
+}
+
+.Path{
+  stroke: #D8D8D8;
+}
+
+.FillPath{
+  fill: #FFFFFF;
+}
+
+.BoxLine{
+  stroke: #D8D8D8;
+  stroke-width: 1px;
+  fill: transparent;
+}
+
+.AucLine{
+  display: none;
+}
+
+.LossLine{
+  display: none;
+}
+
+
+.BoxAuc{
+  opacity: 1;
+}
+
+.BoxLoss{
+  opacity: 1;
+}

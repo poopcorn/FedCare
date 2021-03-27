@@ -1,0 +1,50 @@
+#TextSvg{
+  width: 440px;
+  height: 30px;
+  position: absolute;
+  left: 155px;
+  top: 170px;
+}
+
+.Text{
+  font-size: 10px;
+  font-family: sans-serif;
+}
+
+#BarContainer{
+  width: 440px;
+  height: 500px;
+  position: absolute;
+  left: 155px;
+  top: 200px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+#BarSvg{
+  width: 440px;
+  height: 3500px;
+}
+
+.TrainAuc{
+  fill: #99ACC4;
+}
+
+.TestAuc{
+  fill: #99ACC4;
+}
+
+.TrainLoss{
+  fill: #6B496A;
+}
+
+.TestLoss{
+  fill: #6B496A;
+}
+
+.RectText{
+  font-size: 8px;
+  font-family: sans-serif;
+  fill: #FFFFFF;
+  display: none;
+}

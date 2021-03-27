@@ -1,0 +1,89 @@
+.server_main{
+  width: 100%;
+  height: 100px;
+  margin: 2px;
+  display: flex;
+
+}
+
+.display-div {
+  width: 45%;
+  height: 98px;
+  margin: 2px;
+  display: flex;
+  /* border: 1px solid #d8d8d8; */
+}
+
+.titles-div{
+  height: 100%;
+  width: 50%;
+  font-size:14px;
+  margin-left: 2px;
+  margin-top: 8px;
+}
+
+.divider-div{
+  height: 80%;
+  width: 2px;
+  margin: 10px;
+  background: #d8d8d8;
+}
+
+.input-div{
+  height: 100%;
+  width: 50%;
+  margin-top:10px;
+}
+
+.databox{
+  display: flex;
+  height: 26px;
+  margin-left: 10px;
+  line-height: 26px;
+}
+
+
+.selectbox{
+  height: 90%;
+  width: 213px;
+  font-size:14px;
+}
+
+.data-hr{
+  width: 40%;
+  size: 1px;
+  align-self: center;
+}
+
+.model-hr{
+  width: 39%;
+  size: 1px;
+  align-self: center;
+}
+
+.rate-div{
+  height: 100%;
+  width: 60%;
+  margin-left: 10px;
+}
+
+.clients-div{
+  height: 100%;
+  width: 40%;
+  margin-left: 10px;
+}
+
+.labels-div{
+  width: 100%;
+  height:30%;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.results-div{
+  width: 100%;
+  height: 50%;
+  margin-top: 5px;
+  font-size: 28px;
+  text-align: center;
+}

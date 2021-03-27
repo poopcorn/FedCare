@@ -1,0 +1,120 @@
+.save-button{
+  font-size: 14px;
+  width: 85px;
+  height: 25px;
+  background:#f2f2f1;
+  border: 1px solid #d8d8d8;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  margin-left: 190px;
+}
+
+.report-button{
+  font-size: 14px;
+  width: 85px;
+  height: 25px;
+  background:#f2f2f1;
+  border: 1px solid #d8d8d8;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  margin-left: 10px;
+}
+
+.record-content{
+  font-size: 14px;
+  width: 100%;
+  height: 45%;
+  display: flex;
+}
+
+.titles-content{
+  height: 100%;
+  width: 20%;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 15px;
+}
+
+.title-div{
+  height: 30px;
+  width: 40px;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+.input-content{
+  height: 100%;
+  width: 70%;
+  margin-top: 10px;
+}
+
+.record-select{
+  font-size: 14px;
+  width: 130px;
+  height: 25px;
+  /* border: 1px solid ; */
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+
+.record-input{
+  font-size: 14px;
+  width: 124px;
+  height: 20px;
+  border: 1px solid #585959;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+
+.reason-div{
+  width: 100%;
+  height: 50%;
+}
+
+.reason-input{
+  font-size: 14px;
+  width: 90%;
+  height: 60%;
+  /* border: 1px solid; */
+  border-radius: 5px;
+  margin: 0 5px 10px 20px;
+  padding: 8px;
+  resize: none;
+  columns: 20;
+  font-family:'Arial';
+}
+
+.warn-content{
+  width:360px;
+  height: 80px;
+  margin: 20px 10px 20px 20px;
+  line-height: 30px;
+}
+
+.button-content{
+  width:100%;
+  height: 50px;
+  display: flex;
+}
+
+.ok-button{
+  font-size: 14px;
+  width: 85px;
+  height: 25px;
+  background:#f2f2f1;
+  border: 1px solid #d8d8d8;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  margin-left: 110px;
+}
+
+.cancel-button{
+  font-size: 14px;
+  width: 85px;
+  height: 25px;
+  background:#f2f2f1;
+  border: 1px solid #d8d8d8;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  margin-left: 10px;
+}

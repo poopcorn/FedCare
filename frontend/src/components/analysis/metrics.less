@@ -1,0 +1,77 @@
+.metric-div {
+  padding: 10px;
+  padding-left: 20px;
+  width: 410px;
+  height: 210px;
+}
+
+.metric-title {
+  position: relative;
+  display: flex;
+  height: 25px;
+  line-height: 25px;
+  .metric-threshold-div {
+    position: absolute;
+    right: 0px;
+    font-size: 14px;
+    input {
+      width: 30px;
+      margin: 0 10px;
+    }
+  }
+}
+
+.check-list {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  margin-top: 5px;
+}
+
+.left-input {
+  width: 120px;
+  height: 100%;
+  label {
+    padding-left: 10px;
+  }
+}
+
+.input-list {
+  height: 30px;
+  line-height: 30px;
+  font-weight: normal;
+  font-size: 16px;
+}
+
+.metric-svg {
+  height: 210px;
+  width: 282px;
+  transform: translate(-5px, -20px);
+  line {
+    stroke-width: 1px;
+  }
+  .tick {
+    color: #585959;
+    stroke: #585959;
+    fill: #585959;
+  }
+  path {
+    fill: none;
+  }
+}
+
+#Anomaly-svg {
+  stroke: #efb4ae;
+  circle{
+    fill: #efb4ae;
+    stroke: none;
+  }
+}
+
+#Contribution-svg {
+  stroke: #8fbed6;
+  circle{
+    fill: #8fbed6;
+    stroke: none;
+  }
+}
